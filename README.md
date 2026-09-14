@@ -11,7 +11,7 @@ The manuscript asks a single question about a single public dataset: what can a
 bundle contains the complete pipeline behind the answer: the GEO inventory,
 every statistical recomputation, the figure sources, the limma-voom
 sensitivity analysis, and the power calibration. It is released under the MIT
-licence. A persistent DOI (Zenodo) will be minted prior to acceptance.
+licence. A persistent DOI (Zenodo) will be minted on acceptance.
 
 ## The claim in one paragraph
 
@@ -41,6 +41,9 @@ step5c_power_and_calibration.py     genome-wide BH calibration + MDE by sample s
 step5e_export_pseudobulk_counts.py  integer pseudobulk counts per cell type (for limma-voom)
 step5e_limma_voom.R                 limma-voom + edgeR TMM sensitivity (R 4.4.3)
 step5e_report_numbers.py            Welch-vs-voom comparison table + Ttr ambient-RNA panel
+step5d_dm_sensitivity.py            Dirichlet-multinomial overdispersion sensitivity for the composition null (m5)
+step5e_rank_correlation.py          limma-voom vs Welch gene-ranking correlation (Spearman rho / Pearson r)
+step5h_effect_cis.py                Welch / Cohen's d 95% CIs + Welch-Satterthwaite worst-case MDE band
 step5f_figs_revised.py              Fig 1 / Fig 2 + required-n table
 fig3_same_data_two_entries.py       Fig 3 (GSE267933 vs GSE289098, barcode correspondence)
 fig4_astrocyte_C3.py                Fig 4 (astrocytic complement, p / BH per gene)
@@ -76,6 +79,8 @@ Numbers cited in the manuscript map to files as follows.
 | Per-animal cells after QC (2,384-3,680) | `sc_out/step5d_per_sample_cells.csv` |
 | Fig. 4 (astrocytic complement) | `sc_out/pbcounts/voom_Astrocyte.csv` |
 | Fig. S1 (Welch vs voom, Ttr) | `sc_out/step5e_method_comparison.csv`, `sc_out/step5e_limma_voom_stats.csv` |
+| Fig. S1 (voom vs Welch ranking correlation) | `sc_out/step5e_rank_correlation.csv` |
+| Composition null under overdispersion (DM sensitivity) | `sc_out/step5d_dm_sensitivity.csv` |
 | Gene-set statistics (4 mechanism lines) | `sc_out/step5b_geneset_stats.csv`, `sc_out/step5b2_sensitivity.csv` |
 | Bulk DEG meta-analysis | `step2c_meta_DEG.csv`, `step2c_per_dataset_DEG.csv` |
 | Feature-gene panel | `step3_feature_genes.csv`, `step3_roc_summary.csv` |
@@ -121,6 +126,9 @@ python step5_sc_analysis.py
 # 3. the manuscript's central table: composition at the level of the animal
 python step5d_composition_animallevel.py
 
+# 3b. Dirichlet-multinomial overdispersion sensitivity for the composition null
+python step5d_dm_sensitivity.py
+
 # 4. gene-set statistics and construction-method sensitivity
 python step5b_sc_pseudobulk_geneset.py
 python step5b2_sensitivity.py
@@ -133,6 +141,9 @@ python step5e_export_pseudobulk_counts.py
 Rscript step5e_limma_voom.R sc_out/pbcounts
 python step5e_report_numbers.py
 
+# 6b. limma-voom vs Welch gene-ranking correlation (P2-A)
+python step5e_rank_correlation.py
+
 # 7. figures
 python step5f_figs_revised.py
 python fig3_same_data_two_entries.py
@@ -141,6 +152,9 @@ python figS1_method_sensitivity.py
 
 # 8. self-check: every manuscript number against its source file
 python verify_manuscript_numbers.py
+
+# 9. Welch / Cohen's d 95% CIs and the Welch-worst-case MDE band (Fig. 2)
+python step5h_effect_cis.py
 ```
 
 `step5d_composition_animallevel.py` regenerates the archived

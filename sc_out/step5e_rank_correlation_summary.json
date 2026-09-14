@@ -1,0 +1,12 @@
+{
+  "n_celltypes": 9,
+  "mean_spearman_rho": 0.4876,
+  "mean_pearson_r": 0.5405,
+  "mean_spearman_abslog2FC": 0.3171,
+  "pooled_n_genes": 72204,
+  "pooled_spearman_rho": 0.5311,
+  "pooled_pearson_r": 0.5737,
+  "pooled_spearman_abslog2FC": 0.3636,
+  "min_celltype_rho": 0.3023,
+  "min_celltype_r": 0.4028
+}

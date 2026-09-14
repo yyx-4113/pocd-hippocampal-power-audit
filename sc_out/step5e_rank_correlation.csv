@@ -1,0 +1,10 @@
+celltype,n_intersect,spearman_rho,pearson_r,spearman_abslog2FC,welch_p_lt_0.05,voom_p_lt_0.05,welch_top_gene,voom_top_gene
+Astrocyte,9214,0.6405,0.6498,0.3752,358,592,Nr4a3,Ttr
+Endothelial,7167,0.3668,0.4251,0.2959,172,422,Klhl4,Wfdc17
+Ependymal,10974,0.4592,0.4718,0.3531,950,2030,Pgk1,Nov
+Microglia,11309,0.5038,0.615,0.1037,924,1018,Bola1,Ttr
+Neuron,6128,0.412,0.4881,0.4,175,553,Foxj2,Ttr
+OPC,9706,0.5944,0.6161,0.4515,388,866,Tiprl,Chn2
+Oligodendrocyte,11102,0.7346,0.7165,0.3035,423,741,Dbi,Ttr
+Pericyte,2750,0.3023,0.4028,0.2895,154,208,Rpl28,Ttr
+VLMC,3854,0.3746,0.4791,0.2814,157,306,Gpaa1,Il1b
