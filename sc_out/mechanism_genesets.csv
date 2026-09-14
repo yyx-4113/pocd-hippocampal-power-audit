@@ -1,0 +1,518 @@
+set_id,set_label,gene
+A_complement_synapse_pruning,complement / synaptic pruning,C1qa
+A_complement_synapse_pruning,complement / synaptic pruning,C1qb
+A_complement_synapse_pruning,complement / synaptic pruning,C1qc
+A_complement_synapse_pruning,complement / synaptic pruning,C1r
+A_complement_synapse_pruning,complement / synaptic pruning,C1ra
+A_complement_synapse_pruning,complement / synaptic pruning,C1rb
+A_complement_synapse_pruning,complement / synaptic pruning,C1s
+A_complement_synapse_pruning,complement / synaptic pruning,C1sa
+A_complement_synapse_pruning,complement / synaptic pruning,C1sb
+A_complement_synapse_pruning,complement / synaptic pruning,C2
+A_complement_synapse_pruning,complement / synaptic pruning,C3
+A_complement_synapse_pruning,complement / synaptic pruning,C3ar1
+A_complement_synapse_pruning,complement / synaptic pruning,C4a
+A_complement_synapse_pruning,complement / synaptic pruning,C4b
+A_complement_synapse_pruning,complement / synaptic pruning,C4bpa
+A_complement_synapse_pruning,complement / synaptic pruning,C4bpb
+A_complement_synapse_pruning,complement / synaptic pruning,C5
+A_complement_synapse_pruning,complement / synaptic pruning,C5ar1
+A_complement_synapse_pruning,complement / synaptic pruning,C5ar2
+A_complement_synapse_pruning,complement / synaptic pruning,C6
+A_complement_synapse_pruning,complement / synaptic pruning,C7
+A_complement_synapse_pruning,complement / synaptic pruning,C8a
+A_complement_synapse_pruning,complement / synaptic pruning,C8b
+A_complement_synapse_pruning,complement / synaptic pruning,C8g
+A_complement_synapse_pruning,complement / synaptic pruning,C9
+A_complement_synapse_pruning,complement / synaptic pruning,Cfb
+A_complement_synapse_pruning,complement / synaptic pruning,Cfd
+A_complement_synapse_pruning,complement / synaptic pruning,Cfh
+A_complement_synapse_pruning,complement / synaptic pruning,Cfi
+A_complement_synapse_pruning,complement / synaptic pruning,Cfp
+A_complement_synapse_pruning,complement / synaptic pruning,Cr1l
+A_complement_synapse_pruning,complement / synaptic pruning,Cr2
+A_complement_synapse_pruning,complement / synaptic pruning,Masp1
+A_complement_synapse_pruning,complement / synaptic pruning,Masp2
+A_complement_synapse_pruning,complement / synaptic pruning,Mbl1
+A_complement_synapse_pruning,complement / synaptic pruning,Mbl2
+A_complement_synapse_pruning,complement / synaptic pruning,Fcnb
+A_complement_synapse_pruning,complement / synaptic pruning,Serping1
+A_complement_synapse_pruning,complement / synaptic pruning,Vtn
+A_complement_synapse_pruning,complement / synaptic pruning,C1qtnf1
+A_complement_synapse_pruning,complement / synaptic pruning,C1qtnf3
+A_complement_synapse_pruning,complement / synaptic pruning,C1qtnf5
+A_complement_synapse_pruning,complement / synaptic pruning,Itgam
+A_complement_synapse_pruning,complement / synaptic pruning,Itgb2
+A_complement_synapse_pruning,complement / synaptic pruning,Itgav
+A_complement_synapse_pruning,complement / synaptic pruning,Itgb3
+A_complement_synapse_pruning,complement / synaptic pruning,Itgb5
+A_complement_synapse_pruning,complement / synaptic pruning,Cd68
+A_complement_synapse_pruning,complement / synaptic pruning,Axl
+A_complement_synapse_pruning,complement / synaptic pruning,Mertk
+A_complement_synapse_pruning,complement / synaptic pruning,Gas6
+A_complement_synapse_pruning,complement / synaptic pruning,Pros1
+A_complement_synapse_pruning,complement / synaptic pruning,Trem2
+A_complement_synapse_pruning,complement / synaptic pruning,Tyrobp
+A_complement_synapse_pruning,complement / synaptic pruning,Lrp1
+A_complement_synapse_pruning,complement / synaptic pruning,Cd47
+A_complement_synapse_pruning,complement / synaptic pruning,Sirpa
+A_complement_synapse_pruning,complement / synaptic pruning,Megf10
+A_complement_synapse_pruning,complement / synaptic pruning,Jedi1
+A_complement_synapse_pruning,complement / synaptic pruning,Elmo1
+A_complement_synapse_pruning,complement / synaptic pruning,Dock1
+A_complement_synapse_pruning,complement / synaptic pruning,Rac1
+A_complement_synapse_pruning,complement / synaptic pruning,Crk
+A_complement_synapse_pruning,complement / synaptic pruning,Crkl
+A_complement_synapse_pruning,complement / synaptic pruning,Gulp1
+A_complement_synapse_pruning,complement / synaptic pruning,Clu
+A_complement_synapse_pruning,complement / synaptic pruning,Apoe
+A_complement_synapse_pruning,complement / synaptic pruning,Lpl
+A_complement_synapse_pruning,complement / synaptic pruning,Sorl1
+A_complement_synapse_pruning,complement / synaptic pruning,Syt1
+A_complement_synapse_pruning,complement / synaptic pruning,Syt2
+A_complement_synapse_pruning,complement / synaptic pruning,Syt4
+A_complement_synapse_pruning,complement / synaptic pruning,Syt11
+A_complement_synapse_pruning,complement / synaptic pruning,Syn1
+A_complement_synapse_pruning,complement / synaptic pruning,Syn2
+A_complement_synapse_pruning,complement / synaptic pruning,Syn3
+A_complement_synapse_pruning,complement / synaptic pruning,Syp
+A_complement_synapse_pruning,complement / synaptic pruning,Snap25
+A_complement_synapse_pruning,complement / synaptic pruning,Snap23
+A_complement_synapse_pruning,complement / synaptic pruning,Stx1a
+A_complement_synapse_pruning,complement / synaptic pruning,Stx1b
+A_complement_synapse_pruning,complement / synaptic pruning,Vamp2
+A_complement_synapse_pruning,complement / synaptic pruning,Vamp7
+A_complement_synapse_pruning,complement / synaptic pruning,Dlg1
+A_complement_synapse_pruning,complement / synaptic pruning,Dlg2
+A_complement_synapse_pruning,complement / synaptic pruning,Dlg4
+A_complement_synapse_pruning,complement / synaptic pruning,Gria1
+A_complement_synapse_pruning,complement / synaptic pruning,Gria2
+A_complement_synapse_pruning,complement / synaptic pruning,Gria3
+A_complement_synapse_pruning,complement / synaptic pruning,Grin1
+A_complement_synapse_pruning,complement / synaptic pruning,Grin2a
+A_complement_synapse_pruning,complement / synaptic pruning,Grin2b
+A_complement_synapse_pruning,complement / synaptic pruning,Grin2c
+A_complement_synapse_pruning,complement / synaptic pruning,Grin3a
+A_complement_synapse_pruning,complement / synaptic pruning,Grm1
+A_complement_synapse_pruning,complement / synaptic pruning,Grm2
+A_complement_synapse_pruning,complement / synaptic pruning,Grm3
+A_complement_synapse_pruning,complement / synaptic pruning,Grm5
+A_complement_synapse_pruning,complement / synaptic pruning,Homer1
+A_complement_synapse_pruning,complement / synaptic pruning,Homer2
+A_complement_synapse_pruning,complement / synaptic pruning,Camk2a
+A_complement_synapse_pruning,complement / synaptic pruning,Camk2b
+A_complement_synapse_pruning,complement / synaptic pruning,Camk4
+A_complement_synapse_pruning,complement / synaptic pruning,Bdnf
+A_complement_synapse_pruning,complement / synaptic pruning,Ngf
+A_complement_synapse_pruning,complement / synaptic pruning,Ntf3
+A_complement_synapse_pruning,complement / synaptic pruning,Ntf4
+A_complement_synapse_pruning,complement / synaptic pruning,Arc
+A_complement_synapse_pruning,complement / synaptic pruning,Egr1
+A_complement_synapse_pruning,complement / synaptic pruning,Egr2
+A_complement_synapse_pruning,complement / synaptic pruning,Fos
+A_complement_synapse_pruning,complement / synaptic pruning,Fosb
+A_complement_synapse_pruning,complement / synaptic pruning,Fosl2
+A_complement_synapse_pruning,complement / synaptic pruning,Jun
+A_complement_synapse_pruning,complement / synaptic pruning,Junb
+A_complement_synapse_pruning,complement / synaptic pruning,Jund
+A_complement_synapse_pruning,complement / synaptic pruning,Npas4
+A_complement_synapse_pruning,complement / synaptic pruning,Creb1
+A_complement_synapse_pruning,complement / synaptic pruning,Mtor
+A_complement_synapse_pruning,complement / synaptic pruning,Ppp1r1b
+A_complement_synapse_pruning,complement / synaptic pruning,Dlgap1
+A_complement_synapse_pruning,complement / synaptic pruning,Dlgap2
+A_complement_synapse_pruning,complement / synaptic pruning,Dlgap3
+A_complement_synapse_pruning,complement / synaptic pruning,Shank1
+A_complement_synapse_pruning,complement / synaptic pruning,Shank2
+A_complement_synapse_pruning,complement / synaptic pruning,Shank3
+A_complement_synapse_pruning,complement / synaptic pruning,Nlgn1
+A_complement_synapse_pruning,complement / synaptic pruning,Nlgn2
+A_complement_synapse_pruning,complement / synaptic pruning,Nlgn3
+A_complement_synapse_pruning,complement / synaptic pruning,Nrxn1
+A_complement_synapse_pruning,complement / synaptic pruning,Nrxn2
+A_complement_synapse_pruning,complement / synaptic pruning,Nrxn3
+A_complement_synapse_pruning,complement / synaptic pruning,Cntn1
+A_complement_synapse_pruning,complement / synaptic pruning,Cntn2
+A_complement_synapse_pruning,complement / synaptic pruning,Cntn4
+A_complement_synapse_pruning,complement / synaptic pruning,Cntn5
+A_complement_synapse_pruning,complement / synaptic pruning,Cntn6
+A_complement_synapse_pruning,complement / synaptic pruning,Ncam1
+A_complement_synapse_pruning,complement / synaptic pruning,Ncam2
+A_complement_synapse_pruning,complement / synaptic pruning,Sparcl1
+A_complement_synapse_pruning,complement / synaptic pruning,Thbs1
+A_complement_synapse_pruning,complement / synaptic pruning,Thbs2
+A_complement_synapse_pruning,complement / synaptic pruning,Thbs4
+A_complement_synapse_pruning,complement / synaptic pruning,Gpc4
+A_complement_synapse_pruning,complement / synaptic pruning,Slc17a6
+A_complement_synapse_pruning,complement / synaptic pruning,Slc17a7
+A_complement_synapse_pruning,complement / synaptic pruning,Gad1
+A_complement_synapse_pruning,complement / synaptic pruning,Gad2
+A_complement_synapse_pruning,complement / synaptic pruning,Cx3cr1
+A_complement_synapse_pruning,complement / synaptic pruning,Cx3cl1
+A_complement_synapse_pruning,complement / synaptic pruning,Spp1
+A_complement_synapse_pruning,complement / synaptic pruning,Cd200
+A_complement_synapse_pruning,complement / synaptic pruning,Cd200r1
+A_complement_synapse_pruning,complement / synaptic pruning,Adgrg1
+A_complement_synapse_pruning,complement / synaptic pruning,Mfge8
+A_complement_synapse_pruning,complement / synaptic pruning,Gpnmb
+A_complement_synapse_pruning,complement / synaptic pruning,Serpine2
+A_complement_synapse_pruning,complement / synaptic pruning,Plat
+A_complement_synapse_pruning,complement / synaptic pruning,Plaur
+A_complement_synapse_pruning,complement / synaptic pruning,Plg
+A_complement_synapse_pruning,complement / synaptic pruning,Pla2g7
+A_complement_synapse_pruning,complement / synaptic pruning,Mmp2
+A_complement_synapse_pruning,complement / synaptic pruning,Mmp9
+A_complement_synapse_pruning,complement / synaptic pruning,Timp1
+A_complement_synapse_pruning,complement / synaptic pruning,Ctsb
+A_complement_synapse_pruning,complement / synaptic pruning,Ctsd
+A_complement_synapse_pruning,complement / synaptic pruning,Ctss
+A_complement_synapse_pruning,complement / synaptic pruning,Ctsz
+A_complement_synapse_pruning,complement / synaptic pruning,Ctsc
+A_complement_synapse_pruning,complement / synaptic pruning,Ctsl
+A_complement_synapse_pruning,complement / synaptic pruning,Lgmn
+A_complement_synapse_pruning,complement / synaptic pruning,Cst3
+A_complement_synapse_pruning,complement / synaptic pruning,Cst7
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Trem2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tyrobp
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Apoe
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cst7
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Lpl
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Clec7a
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Itgax
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Spp1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gpnmb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd9
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd63
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Lag3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ank
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Axl
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Lilrb4
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Msr1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Fabp5
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsd
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctss
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsz
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsa
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsc
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctsl
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,B2m
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-D1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-K1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-Aa
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-Ab1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-Eb1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,H2-DMb1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd74
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Pld3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Serinc3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Fth1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ftl1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Lyz2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gns
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gpx3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tnf
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Il1b
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Il6
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Il18
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl4
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl6
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl9
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl12
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cxcl10
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cxcl16
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Nos2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ptgs2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Socs3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd86
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd83
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd80
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Fcgr1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Fcgr2b
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Fcgr3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tlr2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tlr4
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tlr7
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tlr9
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Nfkbia
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Nfkb1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Nfkb2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Rela
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Relb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Stat1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Stat3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Stat6
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Irf1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Irf3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Irf5
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Irf7
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Irf8
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Spi1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Runx1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Runx2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cebpb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Mafb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,P2ry12
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cx3cr1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tmem119
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Siglech
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Sall1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Hexb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gpr34
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tgfbr1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Tgfb1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Csf1r
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Csf1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Il34
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Csf2rb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Plcg2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Syk
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Inpp5d
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ptpn11
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Aif1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,C1qa
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,C1qb
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,C1qc
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,C3
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Serping1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gfap
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Vim
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Lcn2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Steap4
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Hmox1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Mt1
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Mt2
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gpr56
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Gpr84
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ms4a7
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ms4a6c
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Cd52
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctla2a
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ctla2b
+B_DAM_microglia,damage-associated microglia (DAM) / microglial activation,Ccl5
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdha
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhb
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhc
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhd
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhaf1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhaf2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhaf3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sdhaf4
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcc1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcc2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcc3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcr10
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcr11
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrb
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrc1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrc2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrfs1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrh
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Uqcrq
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cyc1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox4i1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox4i2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox5a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox5b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox6a1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox6a2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox6b1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox6b2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox6c
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7a1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7a2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7a2l
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7b2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox7c
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox8a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox8b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox8c
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox10
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox11
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox15
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox17
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cox20
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sco1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sco2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Surf1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5a1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5c1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5d
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5e
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5f1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5f1a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5f1b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5g1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5g2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5g3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5h
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5j
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5j2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5k
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5l
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5o
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5s
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atp5md
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Atpif1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Ppargc1a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Ppargc1b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Tfam
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Nrf1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Nfe2l2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Esrra
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Esrrb
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Tomm20
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Tomm22
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Tomm40
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Tomm70a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm8a1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm8b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm9
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm10
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm13
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm17a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm17b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm22
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm23
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm44
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Timm50
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Vdac1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Vdac2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Vdac3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Mfn1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Mfn2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Opa1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Dnm1l
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Fis1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pink1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Prkn
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Bnip3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Bnip3l
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Fundc1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Map1lc3a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Map1lc3b
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sqstm1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Optn
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a4
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a5
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a10
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a11
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a12
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Slc25a13
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Aifm1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cycs
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Apaf1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Casp9
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Casp3
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Htra2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Oma1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Yme1l1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Spg7
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Afg3l2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Clpp
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Lonp1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Phb
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Phb2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Cs
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Aco2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Idh3a
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Idh2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Ogdh
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Dlst
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Sucla2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Suclg1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Fh1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Mdh2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Mpc1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Mpc2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Srebf1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Srebf2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Hk1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Hk2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pfkm
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pkm
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Ldha
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pdk1
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pdk2
+C_mitochondrial_OXPHOS,mitochondrial OXPHOS,Pdk4
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mbp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Plp1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mog
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mag
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mal
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cnp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cldn11
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mobp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Opalin
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Pmp22
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Pmp2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Ncmap
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Tspan2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Ermn
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Prx
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gjc2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gjb1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sirt2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Galc
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Ugt8a
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Fa2h
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sox10
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Olig1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Olig2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Myrf
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Nkx2-2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,St18
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Zfp24
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Zfp191
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Creb3l2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cspg4
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Pdgfra
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cntn2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Srebf1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Srebf2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Elovl1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Elovl7
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cers2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Aspa
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Hmgcr
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Hmgcs1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Idi1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Fdft1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sqle
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Lss
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mvd
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mvk
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Dhcr7
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Dhcr24
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Nsdhl
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Msmo1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Ebp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Cyp51
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Bcas1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Myo1d
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sla2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gltp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Tmem63a
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Prr5l
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Prr18
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Lpar1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gpr37
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gpr17
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Gpr37l1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Adgrg1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Enpp6
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Bcas3
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sgk1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Kctd17
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Sh3tc2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Fig4
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Mtmr2
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Ndrg1
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Tppp
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Wasf3
+D_myelin_oligodendrocyte,myelin / oligodendrocyte,Tmcc3
