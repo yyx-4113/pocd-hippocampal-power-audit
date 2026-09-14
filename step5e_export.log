@@ -1,0 +1,19 @@
+[load] raw counts GSE267933.h5ad
+  raw: 20684 cells x 27998 genes; X dtype=int64
+  X sparse=True
+  value sample: [1 1 4 1 1 1 1 1]
+[load] processed obs (QC + celltype)
+  processed: 18328 cells; celltypes=['Astrocyte', 'Endothelial', 'Ependymal', 'Microglia', 'Neuron', 'OPC', 'Oligodendrocyte', 'Pericyte', 'VLMC']
+  overlap cells: 18328 / processed 18328 / raw 20684
+  samples: [('0', 'Control'), ('1', 'Control'), ('2', 'Control'), ('3', 'Surgery'), ('4', 'Surgery'), ('5', 'Surgery')]
+  celltypes (>=100 cells): ['Microglia', 'Oligodendrocyte', 'Astrocyte', 'Ependymal', 'OPC', 'Endothelial', 'VLMC', 'Neuron', 'Pericyte']
+  [Microglia] 17849 genes x 6 samples -> pbcounts_Microglia.csv (library sizes: [8225155, 6323533, 9941531, 10340065, 12373045, 11765193])
+  [Oligodendrocyte] 17566 genes x 6 samples -> pbcounts_Oligodendrocyte.csv (library sizes: [6920002, 6114673, 6530000, 10292941, 7853287, 5205456])
+  [Astrocyte] 16227 genes x 6 samples -> pbcounts_Astrocyte.csv (library sizes: [1151564, 1260137, 1467910, 1112234, 1460075, 777769])
+  [Ependymal] 17933 genes x 6 samples -> pbcounts_Ependymal.csv (library sizes: [2047623, 4871028, 4210967, 824713, 1130857, 1310510])
+  [OPC] 16113 genes x 6 samples -> pbcounts_OPC.csv (library sizes: [695053, 459480, 1001385, 1012590, 956006, 778026])
+  [Endothelial] 15670 genes x 6 samples -> pbcounts_Endothelial.csv (library sizes: [394049, 524393, 551888, 938370, 1511979, 315162])
+  [VLMC] 13193 genes x 6 samples -> pbcounts_VLMC.csv (library sizes: [131198, 297393, 474318, 323784, 284123, 299575])
+  [Neuron] 15699 genes x 6 samples -> pbcounts_Neuron.csv (library sizes: [186218, 472536, 120493, 630803, 334205, 141242])
+  [Pericyte] 12837 genes x 6 samples -> pbcounts_Pericyte.csv (library sizes: [153124, 182845, 367545, 200204, 228917, 226237])
+[Done] pseudobulk counts exported -> D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta\sc_out\pbcounts

@@ -1,0 +1,48 @@
+
+1. Hippocampus_Control_rep1
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281758/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614046
+Sample		Accession: GSM8281758	ID: 308281758
+
+2. Hippocampus_Control_rep2
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281759/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614047
+Sample		Accession: GSM8281759	ID: 308281759
+
+3. Hippocampus_Control_rep3
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281760/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614048
+Sample		Accession: GSM8281760	ID: 308281760
+
+4. Hippocampus_Surgery_rep1
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281761/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614049
+Sample		Accession: GSM8281761	ID: 308281761
+
+5. Hippocampus_Surgery_rep2
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281762/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614050
+Sample		Accession: GSM8281762	ID: 308281762
+
+6. Hippocampus_Surgery_rep3
+Organism:	Mus musculus
+Source name:	Hippocampus
+Platform: GPL17021 Series: GSE267933 
+FTP download: GEO (MTX, TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8281nnn/GSM8281763/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRX24614051
+Sample		Accession: GSM8281763	ID: 308281763

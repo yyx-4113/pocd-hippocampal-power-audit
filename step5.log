@@ -1,0 +1,139 @@
+[load] GSE267933.h5ad
+[QC] 20684 -> 18328 细胞, 19269 基因; group={'Surgery': np.int64(9438), 'Control': np.int64(8890)}
+2026-09-14 12:04:55,971 - harmonypy - INFO - Running Harmony (PyTorch on cpu)
+2026-09-14 12:04:55,972 - harmonypy - INFO -   Parameters:
+2026-09-14 12:04:55,972 - harmonypy - INFO -     max_iter_harmony: 20
+2026-09-14 12:04:55,972 - harmonypy - INFO -     max_iter_kmeans: 20
+2026-09-14 12:04:55,972 - harmonypy - INFO -     epsilon_cluster: 1e-05
+2026-09-14 12:04:55,972 - harmonypy - INFO -     epsilon_harmony: 0.0001
+2026-09-14 12:04:55,972 - harmonypy - INFO -     nclust: 100
+2026-09-14 12:04:55,972 - harmonypy - INFO -     block_size: 0.05
+2026-09-14 12:04:55,973 - harmonypy - INFO -     lamb: [1. 1. 1. 1. 1. 1.]
+2026-09-14 12:04:55,973 - harmonypy - INFO -     theta: [2. 2. 2. 2. 2. 2.]
+2026-09-14 12:04:55,973 - harmonypy - INFO -     sigma: [0.1 0.1 0.1 0.1 0.1]...
+2026-09-14 12:04:55,973 - harmonypy - INFO -     verbose: True
+2026-09-14 12:04:55,973 - harmonypy - INFO -     random_state: 42
+2026-09-14 12:04:55,973 - harmonypy - INFO -   Data: 50 PCs × 18328 cells
+2026-09-14 12:04:55,973 - harmonypy - INFO -   Batch variables: ['sample']
+2026-09-14 12:04:56,142 - harmonypy - INFO - Computing initial centroids with sklearn.KMeans...
+2026-09-14 12:05:09,809 - harmonypy - INFO - KMeans initialization complete.
+2026-09-14 12:05:09,891 - harmonypy - INFO - Iteration 1 of 20
+2026-09-14 12:05:14,029 - harmonypy - INFO - Iteration 2 of 20
+2026-09-14 12:05:17,838 - harmonypy - INFO - Iteration 3 of 20
+2026-09-14 12:05:29,245 - harmonypy - INFO - Iteration 4 of 20
+2026-09-14 12:05:30,697 - harmonypy - INFO - Iteration 5 of 20
+2026-09-14 12:05:32,301 - harmonypy - INFO - Iteration 6 of 20
+2026-09-14 12:05:34,059 - harmonypy - INFO - Iteration 7 of 20
+2026-09-14 12:05:35,744 - harmonypy - INFO - Iteration 8 of 20
+2026-09-14 12:05:37,438 - harmonypy - INFO - Iteration 9 of 20
+2026-09-14 12:05:39,443 - harmonypy - INFO - Iteration 10 of 20
+2026-09-14 12:05:40,978 - harmonypy - INFO - Iteration 11 of 20
+2026-09-14 12:05:43,355 - harmonypy - INFO - Iteration 12 of 20
+2026-09-14 12:05:45,257 - harmonypy - INFO - Iteration 13 of 20
+2026-09-14 12:05:47,318 - harmonypy - INFO - Iteration 14 of 20
+2026-09-14 12:05:49,388 - harmonypy - INFO - Converged after 14 iterations
+[Harmony] rep=X_pca_harmony shape=(18328, 50)
+[Leiden] 21 簇
+[annot] 簇->类型:
+        Neuron   CA1   CA3    DG  Microglia  Astrocyte  Oligodendrocyte   OPC  Endothelial  Ependymal  VLMC  Pericyte
+leiden                                                                                                               
+0        -0.04 -0.21 -0.01 -0.05      -1.08      -0.15            -0.43 -0.35        -0.00       1.71 -0.00     -0.03
+1        -0.01 -0.18 -0.00 -0.03       1.26      -0.12            -0.36 -0.37        -0.02      -0.10 -0.00     -0.00
+2        -0.04 -0.17 -0.01 -0.04       1.45      -0.23            -0.65 -0.57        -0.04      -0.20 -0.00     -0.01
+3        -0.04 -0.19 -0.01 -0.04       1.26      -0.24            -0.68 -0.58        -0.04      -0.21 -0.00     -0.01
+4        -0.06 -0.21 -0.01 -0.08       1.17      -0.22            -0.64 -0.59        -0.04      -0.27 -0.00     -0.01
+5        -0.02 -0.12 -0.01  0.07      -1.23      -0.21             2.59  0.24        -0.06      -0.08 -0.00     -0.01
+6         0.27 -0.02  0.05  0.07      -0.86       0.23            -0.12  1.88        -0.13      -0.06 -0.01     -0.05
+7        -0.04 -0.09 -0.01  0.08      -1.29      -0.03             2.37  0.17        -0.07      -0.11 -0.00     -0.01
+8        -0.05 -0.12 -0.02 -0.06      -0.90      -0.13            -0.12 -0.37         2.15      -0.14  0.01      0.47
+9        -0.05 -0.20 -0.01 -0.07      -1.06      -0.21            -0.38 -0.39        -0.03      -0.09 -0.01      0.00
+10       -0.02  0.01  0.08 -0.09      -0.96       1.64            -0.40 -0.26        -0.08      -0.06  0.01      0.07
+11        0.01 -0.10  0.02 -0.05      -0.80       1.27            -0.16 -0.14        -0.03       0.06  0.00      0.01
+12       -0.04 -0.09 -0.01 -0.07      -0.97      -0.17            -0.13 -0.34         0.05      -0.16 -0.01     -0.02
+13       -0.04 -0.17 -0.01 -0.03      -0.31      -0.15            -0.50 -0.46        -0.05      -0.10  0.00     -0.01
+14        0.03 -0.17 -0.03 -0.04      -1.15       0.70            -0.40 -0.43        -0.13       1.27  0.04     -0.08
+15        1.20  0.23  0.11  0.04      -0.75      -0.09            -0.21 -0.29        -0.09      -0.10 -0.01     -0.02
+16       -0.05 -0.14 -0.02 -0.05      -0.74      -0.18            -0.33 -0.39        -0.01       0.26  0.00     -0.03
+17       -0.04 -0.18 -0.00 -0.03       1.14       0.35            -0.69 -0.55        -0.05      -0.22  0.00     -0.00
+18        0.48 -0.10  0.01  0.17      -1.03      -0.19            -0.56 -0.41        -0.11      -0.18 -0.01     -0.03
+19       -0.04 -0.15 -0.01  0.03       0.76      -0.25             1.64 -0.13        -0.06      -0.21 -0.00     -0.01
+20        0.03 -0.08 -0.00 -0.01      -0.21       0.03             0.02 -0.14         0.11      -0.06 -0.02     -0.01
+[annot] 细胞类型分布:
+celltype
+Microglia          8003
+Oligodendrocyte    5455
+Astrocyte          1606
+Ependymal          1270
+OPC                 734
+Endothelial         535
+VLMC                278
+Neuron              251
+Pericyte            196
+[composition]
+       celltype  n_ctrl  n_surg  pct_ctrl  pct_surg     fisher_p         BH_p
+      Microglia    3514    4489     39.53     47.56 6.104862e-28 2.747188e-27
+Oligodendrocyte    2651    2804     29.82     29.71 8.716135e-01 9.099853e-01
+      Astrocyte     864     742      9.72      7.86 9.848530e-06 2.215919e-05
+            OPC     358     376      4.03      3.98 9.099853e-01 9.099853e-01
+    Endothelial     193     342      2.17      3.62 4.498986e-09 1.349696e-08
+      Ependymal     953     317     10.72      3.36 1.134615e-88 1.021153e-87
+         Neuron      99     152      1.11      1.61 4.146163e-03 7.463093e-03
+           VLMC     151     127      1.70      1.35 5.303227e-02 7.954841e-02
+       Pericyte     107      89      1.20      0.94 9.821560e-02 1.262772e-01
+[feature genes] celltype 平均表达:
+                   Fos   Gltp   Junb  Runx2   Sgk1   Sla2
+celltype                                                 
+Astrocyte        0.380  0.170  0.397  0.002  0.157  0.000
+Endothelial      2.331  0.417  2.397  0.001  0.754  0.000
+Ependymal        0.685  0.169  0.788  0.038  0.806  0.001
+Microglia        3.030  0.566  3.692  0.001  1.433  0.000
+Neuron           1.490  0.171  1.224  0.052  0.262  0.000
+OPC              2.370  0.862  1.285  0.058  0.712  0.004
+Oligodendrocyte  1.226  1.573  0.750  0.001  2.435  0.000
+Pericyte         0.944  0.337  2.954  0.200  0.279  0.256
+VLMC             2.837  0.705  2.734  0.004  0.298  0.000
+[pseudobulk] 特征基因 log2FC:
+celltype  Astrocyte  Endothelial  Ependymal  Microglia  Neuron   OPC  Oligodendrocyte  Pericyte  VLMC
+gene                                                                                                 
+Fos            0.15         0.26       0.65       0.22    0.57  0.14             0.21      0.49 -0.12
+Gltp           0.01         0.02       0.09       0.05    0.06  0.05            -0.06     -0.07  0.21
+Junb           0.21         0.04       0.56       0.18    0.64  0.40             0.15      0.31 -0.16
+Runx2          0.00         0.00       0.06      -0.00   -0.05 -0.00             0.00      0.10 -0.01
+Sgk1           0.04        -0.10      -0.17       0.04   -0.04  0.05            -0.65      0.03 -0.03
+Sla2           0.00         0.00      -0.00       0.00    0.00 -0.00            -0.00      0.01  0.00
+[OL subclusters]
+group   Control  Surgery
+ol_sub                  
+0           207      198
+1          1092     1172
+2            74       55
+3           487      476
+4           722      838
+5            89      123
+6            27       13
+7           270      252
+8            41       53
+[DPT] 根簇=7
+[microglia scores]
+         DAM_score  Homeo_score
+group                          
+Control      0.572        1.436
+Surgery      0.545        1.362
+[LR axis] top:
+ligand receptor          sender  receiver     score
+  Apoe    Trem2            VLMC Microglia 17.529081
+  Apoe    Trem2       Astrocyte Microglia 15.296315
+  Apoe    Trem2       Ependymal Microglia  9.540124
+  Apoe    Trem2       Astrocyte      VLMC  9.381365
+  Apoe    Trem2             OPC Microglia  9.364382
+  Apoe    Trem2 Oligodendrocyte Microglia  9.238278
+Tyrobp    Trem2            VLMC Microglia  9.025041
+  C1qa     Lrp1       Microglia       OPC  8.382632
+  C1qa     Lrp1            VLMC       OPC  8.098345
+  Apoe    Trem2       Ependymal      VLMC  5.851042
+  Apoe    Trem2             OPC      VLMC  5.743258
+  Apoe    Trem2 Oligodendrocyte      VLMC  5.665917
+  Apoe    Trem2     Endothelial Microglia  5.656881
+Tyrobp    Trem2       Microglia      VLMC  5.568373
+  C1qa     Lrp1            VLMC Microglia  3.508268
+[Done] Step 5-6 输出写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta\sc_out

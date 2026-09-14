@@ -1,0 +1,8 @@
+                         set  n_members  mean_meta_Z  median_meta_Z  frac_down          t_p   wilcoxon_p   stouffer_p  n_meta_sig  BH_p(planned3)         BH_p
+A_complement_synapse_pruning        149       -0.285         -0.417      0.711 9.547469e-04 4.746081e-06 5.038303e-04          11             NaN 9.547469e-04
+             B_DAM_microglia        112       -0.906         -0.988      0.839 3.228731e-16 3.312464e-13 9.398802e-22          19             NaN 6.457461e-16
+      C_mitochondrial_OXPHOS        187       -0.504         -0.554      0.797 1.787426e-20 3.337052e-17 5.256096e-12           0             NaN 7.149705e-20
+    D_myelin_oligodendrocyte         73       -1.484         -1.160      0.904 5.853693e-15 3.610137e-12 7.869118e-37          23             NaN 7.804924e-15
+
+[candidate pool] 基因水平 50 + 集合代表 10 = 60 基因 -> Step 3
+[Done] Step 2b 输出已写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta

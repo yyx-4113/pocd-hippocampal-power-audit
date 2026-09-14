@@ -1,0 +1,53 @@
+[pool] 60 候选基因
+[matrices] GSE276942 (17, 60) | merged (27, 59) | GSE215410 (4, 60) | GSE174412 (6, 59)
+
+===== discovery_GSE276942: n=17, 特征=60 =====
+[LASSO] C*=0.229 (λ=4.38); 选中 2 基因; CV-AUC=0.938
+[Boruta] 确认 9 基因 (BorutaPy)
+[特征基因] LASSO∩Boruta = 2: [np.str_('Fos'), np.str_('Junb')]
+[stability] LASSO 选中频率>=0.6: 0 基因 -> []
+
+===== integrated_ComBat: n=27, 特征=59 =====
+[LASSO] C*=1.914 (λ=0.52); 选中 11 基因; CV-AUC=1.000
+[Boruta] 确认 13 基因 (BorutaPy)
+[特征基因] LASSO∩Boruta = 4: [np.str_('Gltp'), np.str_('Runx2'), np.str_('Sgk1'), np.str_('Sla2')]
+[stability] LASSO 选中频率>=0.6: 3 基因 -> [np.str_('Junb'), np.str_('Sgk1'), np.str_('Sla2')]
+
+[FINAL] 特征基因 6 (两训练集并集): [np.str_('Fos'), np.str_('Gltp'), np.str_('Junb'), np.str_('Runx2'), np.str_('Sgk1'), np.str_('Sla2')]
+[注意] 两训练集特征交集=0 -> 不稳定(小样本), 特征选择需谨慎解读
+[稳健核心] LASSO bootstrap 频率>=0.6 的基因: [np.str_('Junb'), np.str_('Sgk1'), np.str_('Sla2')]
+[XGBoost] gain 重要性 top10: Sla2, Sox10, Egr1, Irf8, Egr2, Junb, Cox7a1, Kctd17, Opalin, Myo1d
+
+[ROC] 多基因:
+             dataset                    type  n  AUC  SD gene
+ discovery_GSE276942  multi_gene_logistic_CV 17  1.0 0.0  NaN
+   integrated_ComBat multi_gene_logistic_fit 27  1.0 NaN  NaN
+validation_GSE215410 multi_gene_logistic_fit  4  1.0 NaN  NaN
+validation_GSE174412 multi_gene_logistic_fit  6  1.0 NaN  NaN
+
+[ROC] 单基因 AUC (行=特征基因):
+dataset  discovery_GSE276942  integrated_ComBat  validation_GSE174412  validation_GSE215410
+gene                                                                                       
+Fos                    1.000              0.574                 1.000                  1.00
+Gltp                   0.865              0.864                 0.889                  1.00
+Junb                   1.000              0.753                 0.556                  1.00
+Runx2                  0.712              0.877                 1.000                  1.00
+Sgk1                   0.865              0.846                 1.000                  0.75
+Sla2                   0.885              0.932                 1.000                  1.00
+
+[重复CV] 5 折 x 20 次:
+            dataset  n  n_feat  repeatedCV_AUC_mean  repeatedCV_AUC_sd
+discovery_GSE276942 17       6                  1.0                0.0
+  integrated_ComBat 27       6                  1.0                0.0
+
+[跨数据集 train->test AUC]:
+              train                test  n_test  n_feat   AUC
+discovery_GSE276942           GSE215410       4       6 0.000
+discovery_GSE276942           GSE174412       6       6 0.889
+discovery_GSE276942 discovery_GSE276942      17       6 1.000
+discovery_GSE276942   integrated_ComBat      27       6 1.000
+  integrated_ComBat           GSE215410       4       6 0.250
+  integrated_ComBat           GSE174412       6       6 1.000
+  integrated_ComBat discovery_GSE276942      17       6 1.000
+  integrated_ComBat   integrated_ComBat      27       6 1.000
+[Done] Step 3 输出已写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta

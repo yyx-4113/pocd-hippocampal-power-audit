@@ -1,0 +1,7 @@
+gene,is_final,robust_core,discovery_feature,integrated_feature,discovery_lasso_stab,integrated_lasso_stab,discovery_rf_rank,integrated_rf_rank,discovery_boruta,integrated_boruta
+Sgk1,True,True,False,True,0.175,0.875,22,8,False,True
+Sla2,True,True,False,True,0.0,0.78,20,1,False,True
+Junb,True,True,True,False,0.36,0.73,2,24,True,False
+Runx2,True,False,False,True,0.0,0.455,58,7,False,True
+Gltp,True,False,False,True,0.0,0.4,10,10,False,True
+Fos,True,False,True,False,0.265,0.03,6,54,True,False

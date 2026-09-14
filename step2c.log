@@ -1,0 +1,11 @@
+[load] GSE276942(16885, 17) GSE215410(31024, 4) GSE174412(20129, 6) GSE199318_astro(3777, 6)
+[GSE199318] grp={'SEV1': 'Control', 'SEV2': 'Control', 'SEV3': 'Control', 'LA1': 'Post', 'LA2': 'Post', 'LA3': 'Post'}  n_post=3 n_ctrl=3
+[pathway] A_complement_synapse_pruning=163, B_DAM_microglia=118, C_mitochondrial_OXPHOS=191, D_myelin_oligodendrocyte=76
+
+==== 四机制线 基因集统计: 3 套 vs 4 套 ====
+                         set  n_members  mean_meta_Z_3ds  frac_down_3ds      t_p_3ds  stouffer_p_3ds     BH_p_3ds  mean_meta_Z_4ds  frac_down_4ds      t_p_4ds  stouffer_p_4ds     BH_p_4ds  delta_mean_Z
+A_complement_synapse_pruning        149           -0.285          0.711 9.547469e-04    5.038303e-04 9.547469e-04           -0.277          0.703 1.931432e-03    8.458200e-04 1.931432e-03         0.008
+             B_DAM_microglia        112           -0.906          0.839 3.228731e-16    9.398802e-22 6.457461e-16           -0.893          0.829 4.718491e-16    4.963638e-21 9.436983e-16         0.013
+      C_mitochondrial_OXPHOS        187           -0.504          0.797 1.787426e-20    5.256096e-12 7.149705e-20           -0.512          0.804 9.163965e-21    3.924861e-12 3.665586e-20        -0.008
+    D_myelin_oligodendrocyte         73           -1.484          0.904 5.853693e-15    7.869118e-37 7.804924e-15           -1.471          0.903 1.011692e-14    9.350312e-36 1.348922e-14         0.013
+[Done] Step 2c 输出已写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta

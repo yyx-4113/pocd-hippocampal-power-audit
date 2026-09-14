@@ -1,0 +1,9 @@
+[load] GSE276942 (16885, 17) | GSE215410 (31024, 4) | GSE174412 (20129, 6)
+[pathway] 命中: A_complement_synapse_pruning=163, B_DAM_microglia=118, C_mitochondrial_OXPHOS=191, D_myelin_oligodendrocyte=75 | 并集=523
+[meta] 基因数=20348; meta_p<0.05 = 717; meta_padj<0.05 = 0
+[ComBat] 三数据集共同基因 = 15998
+[ComBat] inmoose 不可用, 使用内置参数化 ComBat: ModuleNotFoundError No module named 'inmoose'
+[ComBat] 内置参数化 ComBat (位置 EB, 保留 group); BH<0.05 = 0, p<0.05 = 843
+[candidate] 通路∩元分析候选基因 = 50 (T1=32, T2=18, T3=0)
+  top20: Opalin, Sla2, Myo1d, Mog, Junb, Gltp, Tmem63a, Pmp22, Bcas1, Prr5l, Enpp6, Egr2, Arc, Mag, Tlr2, Irf8, Myrf, Nkx2-2, Cebpb, Plp1
+[Done] Step 2 输出已写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta

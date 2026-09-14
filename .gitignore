@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large intermediates (regenerable, re-downloadable)
+*.h5ad
+*.h5
+*.loom
+*.rds
+GSE267933_RAW.tar
+GSE303920_RAW.tar
+GSE95426_RAW.tar
+
+# Local scratch
+_scratch/
+tmp/
+_before_*.csv

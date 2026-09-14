@@ -1,0 +1,43 @@
+paragraphs: 134 | inline images: 5
+
+-- de-AI tells --
+em-dash U+2014: 0 (target 0)
+curly: 0 (target 0)
+leftover markdown '**': 0
+
+-- key content present --
+OK   | Underpowered at every level
+OK   | no cell type changed in proportion after BH correction
+OK   | BH p=0.34
+OK   | BH p=0.47
+OK   | 2.7×10⁻²⁷
+OK   | 1.0×10⁻⁸⁷
+OK   | 25 orders
+OK   | 0 of 173,421
+OK   | 11 of 72,204
+OK   | Ttr
+OK   | ambient RNA
+OK   | d≈3.07
+OK   | n≈9
+OK   | n≈17
+OK   | n≈64
+OK   | n≈176
+OK   | C3 p=0.25, BH=0.66
+OK   | sorted-bulk RNA-seq
+OK   | GSE289098
+OK   | 1:1
+OK   | 41176600
+OK   | 10.1213/ANE.0000000000003514
+OK   | 10.1016/j.neuron.2014.11.018
+OK   | Fig. S1
+OK   | github.com/yongxinyang
+
+-- stale strings must be absent --
+GONE  | Composition is powered
+GONE  | well powered at 3v3
+GONE  | statistically secure at n=3
+GONE  | entering the detectable band
+GONE  | 5.0×10⁻⁶
+GONE  | is circular
+GONE  | order of magnitude above
+GONE  | Table S1

@@ -1,0 +1,7 @@
+our_sample,our_group,our_n_cells,gse289098_suffix,deposited_n_cells,barcode_set_identical,depositor_label
+S1,Surgery,3776,-1,3776,True,Surgery_rep1
+C3,Control,3692,-2,3692,True,Control_rep3
+S2,Surgery,4083,-3,4083,True,Surgery_rep2
+S3,Surgery,2686,-4,2686,True,Surgery_rep3
+C2,Control,3276,-5,3276,True,Control_rep2
+C1,Control,3171,-6,3171,True,Control_rep1

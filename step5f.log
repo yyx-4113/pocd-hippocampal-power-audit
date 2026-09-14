@@ -1,0 +1,14 @@
+[sanity] MDE n=3,6,8,20: [3.073, 1.799, 1.509, 0.909]
+ effect_size_d  required_n_per_group  total_n
+           1.5                     9       18
+           1.2                    12       24
+           1.0                    17       34
+           0.8                    26       52
+           0.6                    45       90
+           0.5                    64      128
+           0.4                   100      200
+           0.3                   176      352
+           0.2                   394      788
+[Done] fig_ApC_power_asymmetry.png
+[Done] fig_ApC_mde_curve.png
+[Done] step5f_required_n.csv

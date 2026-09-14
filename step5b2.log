@@ -1,0 +1,7 @@
+[load] 原始 counts + 处理后标签
+[align] 处理后 18328 细胞, 复现 QC 后 18328, 交集 18328
+
+[一致性] 两构建法 delta_Z 相关: Pearson r=0.857 (p=4e-10), Spearman rho=0.835, n=32
+[各方法名义显著 (p<0.05) 计数] {'counts_sum_CPM': 3, 'lognorm_mean': 5}
+[各方法 BH<0.05 计数] {}
+[Done] Step 5b-2 输出写入 D:\2026.9\极速交付9月会员日优惠套路\04_单细胞多组学双模型联合锁靶\POCD海马神经胶质突触双模型锁靶\geo_meta\sc_out

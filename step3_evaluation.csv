@@ -1,0 +1,11 @@
+dataset,n,n_feat,repeatedCV_AUC_mean,repeatedCV_AUC_sd,train,test,n_test,AUC
+discovery_GSE276942,17.0,6,1.0,0.0,,,,
+integrated_ComBat,27.0,6,1.0,0.0,,,,
+,,6,,,discovery_GSE276942,GSE215410,4.0,0.0
+,,6,,,discovery_GSE276942,GSE174412,6.0,0.889
+,,6,,,discovery_GSE276942,discovery_GSE276942,17.0,1.0
+,,6,,,discovery_GSE276942,integrated_ComBat,27.0,1.0
+,,6,,,integrated_ComBat,GSE215410,4.0,0.25
+,,6,,,integrated_ComBat,GSE174412,6.0,1.0
+,,6,,,integrated_ComBat,discovery_GSE276942,17.0,1.0
+,,6,,,integrated_ComBat,integrated_ComBat,27.0,1.0
