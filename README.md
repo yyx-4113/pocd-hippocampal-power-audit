@@ -217,4 +217,8 @@ please cite the repository URL and the commit hash.
 ## Author verification
 
 See `author_verification_statement.md` for what was checked, by what method,
-and on what date.
+and on what date; a Word copy for reviewers is included alongside it as
+`author_verification_statement.docx`. Section 11 of that statement records
+compliance with the Editorial Office's technical check on manuscript
+AA-D-26-01935 (all-English submission files, continuous page numbers in the
+manuscript, and no author contribution statement in the manuscript file).
