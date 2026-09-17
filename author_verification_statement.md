@@ -1,10 +1,10 @@
 # Author verification statement
 
-**Manuscript:** "Underpowered at every level: an animal-level power audit of 3-vs-3 hippocampal single-cell RNA-seq in postoperative neurocognitive dysfunction" (Original Laboratory Research Report, *Anesthesia & Analgesia*, submitted).
+**Manuscript:** "Underpowered at the animal level for composition and cell state: a power audit of 3-vs-3 hippocampal single-cell RNA-seq in postoperative neurocognitive dysfunction" (Original Laboratory Research Report, *Anesthesia & Analgesia*, submitted).
 
 **Prepared by:** Yongxin Yang (author)
 **Method of verification:** every externally checkable claim in the manuscript was re-derived from the primary source with the scripts shipped in this repository, or re-checked against PubMed / the publisher record by identifier. No number was carried over from an earlier draft without re-derivation.
-**Date of verification:** 14 September 2026.
+**Date of verification:** 14 September 2026; re-verified 15 September 2026 against the submitted revision, and re-checked 17 September 2026 against the editorial-check revision.
 
 ## What was checked
 
@@ -59,12 +59,14 @@ directly). The manuscript therefore treats the field as having one such experime
 not two.
 
 ### 7. References
-All 16 entries were verified against PubMed or the publisher DOI (see the manuscript's
+All 19 entries were verified against PubMed or the publisher DOI (see the manuscript's
 DOI verification note). Corrections recorded there: [1] is *Anesth Analg*
 2018;127(2):496-505, [2] is *Glia* 2013;61(1):71-90, [3] is *Ann Neurol* 2011;70(6):986-995,
 [4] author list and DOI corrected, and the foundational C3 paper is Lian H *et al.*,
-*Neuron* 2015;85(1):101-115 ([5]). Result: **16/16 resolve to a real record that
-supports the sentence citing it**. The author's companion commentary on
+*Neuron* 2015;85(1):101-115 ([5]). Entries [17] to [19] were added during revision and
+each was resolved through Crossref before insertion ([18] was additionally corrected to
+its full citation, *J Neuroinflammation* 2024;21(1):3216). Result: **19/19 resolve to a
+real record that supports the sentence citing it**. The author's companion commentary on
 sleep-deprivation pseudoreplication is disclosed in the manuscript's reference note as
 related work under review, not as a primary numbered source.
 
@@ -82,11 +84,23 @@ bulk matrices) are provided in `sc_out/step2_pathway_sets.json` (A:163, B:118, C
 D:75). The bulk Stouffer meta-analysis uses these matrix-present members.
 
 ### 10. Self-reported counts
-Text length (3,951 words including the figure list, 3,602 without it; both within the
-A&A 4,000-word limit), structured abstract (394 words), figure/table count (4 main
-figures + 1 appendix table = 5 main items, ≤6; 3 online supplementary figures S1-S3)
-and reference count (16) were recomputed from the manuscript source and the count
-scripts, not carried over.
+Text length (3,949 words including the figure list, 3,611 without it; both within the
+A&A 4,000-word limit), structured abstract (389 words), figure/table count (4 main
+figures + 1 appendix table = 5 main items, ≤6; 3 online supplementary figures S1-S3 and
+Supplementary Table S1) and reference count (19) were recomputed from the manuscript
+source and the count scripts, not carried over.
+
+### 11. Editorial check compliance (AA-D-26-01935)
+The Editorial Office returned the submission for four changes, all of which have been
+made. The corresponding author's name is held in Editorial Manager in the English form
+Yongxin Yang (given name Yongxin, family name Yang). Every submitted file is in English:
+a Chinese revision log that had been rendered into the cover letter was removed, and the
+filename of every uploaded item is English. The manuscript file carries continuous page
+numbers in the footer. The author contribution statement was removed from the manuscript
+file at the Editorial Office's request; the author is the sole contributor, who conceived
+the study, performed all reanalyses, wrote the manuscript and approved the final version.
+Each of these is now gated by `verify_submission_docx.py` (no non-English characters, a
+PAGE field present in the footer, and no author contribution statement in the manuscript).
 
 ## Repository and persistent identifier
 The analysis pipeline, all intermediate tables, the cached GEO records and matrices,
@@ -100,4 +114,4 @@ in `README.md`. A persistent Zenodo DOI will be added to this file and to the
 manuscript's data availability statement on acceptance.
 
 **Signed:** Yongxin Yang
-**Date:** 14 September 2026
+**Date:** 14 September 2026 (re-verified 15 September 2026; editorial-check revision 17 September 2026)
